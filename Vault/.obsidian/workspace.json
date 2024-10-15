@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/readme.md.md",
+                "file": "Git/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/readme.md.md"
+                "file": "Git/readme.md"
               }
             }
           }
@@ -163,6 +163,6 @@
   "lastOpenFiles": [
     "Untitled.md",
     "Git",
-    "Git/readme.md.md"
+    "Git/readme.md"
   ]
 }
